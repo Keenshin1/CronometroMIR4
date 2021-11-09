@@ -1,0 +1,6 @@
+Data Inicial: 
+Tempo Decorrido: 00:00:00
+Data Final: 09/11/2021 13:05:18
+Ação executada: Nenhum botão selecionado
+Comentario: O arquivo de texto gerado vai ser salvo no mesmo diretorio do app.
+
